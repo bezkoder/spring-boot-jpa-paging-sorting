@@ -14,6 +14,8 @@ Front-end that works well with this Back-end:
 
 > [Angular 10 Pagination example | ngx-pagination](https://bezkoder.com/angular-10-pagination-ngx/)
 
+> [Angular 11 Pagination example | ngx-pagination](https://bezkoder.com/angular-11-pagination-ngx/)
+
 > [Vue Pagination with Axios and API example](https://bezkoder.com/vue-pagination-axios/)
 
 > [Vuetify Pagination (Server side) example](https://bezkoder.com/vuetify-pagination-server-side/)
@@ -28,9 +30,21 @@ More Practice:
 Fullstack:
 > [Vue.js + Spring Boot + MySQL/PostgreSQL example](https://bezkoder.com/spring-boot-vue-js-crud-example/)
 
-> [Angular + Spring Boot + MySQL/PostgreSQL example](https://bezkoder.com/angular-10-spring-boot-crud/)
+> [Angular 8 + Spring Boot + MySQL example](https://bezkoder.com/angular-spring-boot-crud/)
 
-> [React + Spring Boot + MySQL/PostgreSQL example](https://bezkoder.com/react-spring-boot-crud/)
+> [Angular 8 + Spring Boot + PostgreSQL example](https://bezkoder.com/angular-spring-boot-postgresql/)
+
+> [Angular 10 + Spring Boot + MySQL example](https://bezkoder.com/angular-10-spring-boot-crud/)
+
+> [Angular 10 + Spring Boot + PostgreSQL example](https://bezkoder.com/angular-10-spring-boot-postgresql/)
+
+> [Angular 11 + Spring Boot + MySQL example](https://bezkoder.com/angular-11-spring-boot-crud/)
+
+> [Angular 11 + Spring Boot + PostgreSQL example](https://bezkoder.com/angular-11-spring-boot-postgresql/)
+
+> [React + Spring Boot + MySQL example](https://bezkoder.com/react-spring-boot-crud/)
+
+> [React + Spring Boot + PostgreSQL example](https://bezkoder.com/spring-boot-react-postgresql/)
 
 ## Run Spring Boot application
 ```

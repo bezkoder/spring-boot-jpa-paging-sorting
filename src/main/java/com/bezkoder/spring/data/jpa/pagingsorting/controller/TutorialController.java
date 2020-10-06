@@ -109,10 +109,6 @@ public class TutorialController {
 
       tutorials = pageTuts.getContent();
 
-      if (tutorials.isEmpty()) {
-        return new ResponseEntity<>(HttpStatus.NO_CONTENT);
-      }
-
       Map<String, Object> response = new HashMap<>();
       response.put("tutorials", tutorials);
       response.put("currentPage", pageTuts.getNumber());
@@ -136,10 +132,6 @@ public class TutorialController {
 
       Page<Tutorial> pageTuts = tutorialRepository.findByPublished(true, paging);
       tutorials = pageTuts.getContent();
-
-      if (tutorials.isEmpty()) {
-        return new ResponseEntity<>(HttpStatus.NO_CONTENT);
-      }
 
       Map<String, Object> response = new HashMap<>();
       response.put("tutorials", tutorials);
