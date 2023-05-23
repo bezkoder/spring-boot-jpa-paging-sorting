@@ -24,6 +24,8 @@ Front-end that works well with this Back-end:
 
 > [Angular 14 Pagination example | ngx-pagination](https://www.bezkoder.com/angular-14-pagination-ngx/)
 
+> [Angular 15 Pagination example | ngx-pagination](https://www.bezkoder.com/angular-15-pagination-ngx/)
+
 > [Vue Pagination with Axios and API example](https://www.bezkoder.com/vue-pagination-axios/)
 
 > [Vuetify Pagination (Server side) example](https://www.bezkoder.com/vuetify-pagination-server-side/)
@@ -31,13 +33,29 @@ Front-end that works well with this Back-end:
 More Practice:
 > [Spring Boot File upload example with Multipart File](https://www.bezkoder.com/spring-boot-file-upload/)
 
-> [Exception handling: @RestControllerAdvice example in Spring Boot](https://www.bezkoder.com/spring-boot-restcontrolleradvice/)
-
 > [Spring Boot Repository Unit Test with @DataJpaTest](https://www.bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/)
+
+> [Spring Boot Rest Controller Unit Test with @WebMvcTest](https://www.bezkoder.com/spring-boot-webmvctest/)
 
 > [Deploy Spring Boot App on AWS – Elastic Beanstalk](https://www.bezkoder.com/deploy-spring-boot-aws-eb/)
 
 > [Secure Spring Boot App with Spring Security & JWT Authentication](https://www.bezkoder.com/spring-boot-jwt-authentication/)
+
+> Cache the result: [Spring Boot Redis Cache example](https://www.bezkoder.com/spring-boot-redis-cache-example/)
+
+> Documentation: [Spring Boot with Swagger 3 example](https://www.bezkoder.com/spring-boot-swagger-3/)
+
+Exception Handling:
+> [Spring Boot @ControllerAdvice & @ExceptionHandler example](https://www.bezkoder.com/spring-boot-controlleradvice-exceptionhandler/)
+
+> [@RestControllerAdvice example in Spring Boot](https://www.bezkoder.com/spring-boot-restcontrolleradvice/)
+
+Associations:
+> [Spring Boot One To One example with Spring JPA, Hibernate](https://www.bezkoder.com/jpa-one-to-one/)
+
+> [Spring Boot One To Many example with Spring JPA, Hibernate](https://www.bezkoder.com/jpa-one-to-many/)
+
+> [Spring Boot Many To Many example with Spring JPA, Hibernate](https://www.bezkoder.com/jpa-many-to-many/)
 
 Fullstack:
 > [Vue.js + Spring Boot + MySQL/PostgreSQL example](https://www.bezkoder.com/spring-boot-vue-js-crud-example/)
@@ -71,6 +89,12 @@ Fullstack:
 > [Angular 14 + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-14-mysql/)
 
 > [Angular 14 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-14-postgresql/)
+
+> [Angular 15 + Spring Boot + H2 Embedded Database example](https://www.bezkoder.com/spring-boot-angular-15-crud/)
+
+> [Angular 15 + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-15-mysql/)
+
+> [Angular 15 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-15-postgresql/)
 
 > [React + Spring Boot + MySQL example](https://www.bezkoder.com/react-spring-boot-crud/)
 

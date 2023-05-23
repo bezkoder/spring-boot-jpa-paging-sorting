@@ -1,6 +1,7 @@
 package com.bezkoder.spring.data.jpa.pagingsorting.model;
 
-import javax.persistence.*;
+//import javax.persistence.*; // for Spring Boot 2
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "tutorials")
