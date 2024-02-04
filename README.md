@@ -26,6 +26,10 @@ Front-end that works well with this Back-end:
 
 > [Angular 15 Pagination example | ngx-pagination](https://www.bezkoder.com/angular-15-pagination-ngx/)
 
+> [Angular 16 Pagination example | ngx-pagination](https://www.bezkoder.com/angular-16-pagination-ngx/)
+
+> [Angular 17 Pagination example | ngx-pagination](https://www.bezkoder.com/angular-17-pagination-ngx/)
+
 > [Vue Pagination with Axios and API example](https://www.bezkoder.com/vue-pagination-axios/)
 
 > [Vuetify Pagination (Server side) example](https://www.bezkoder.com/vuetify-pagination-server-side/)
@@ -95,6 +99,18 @@ Fullstack:
 > [Angular 15 + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-15-mysql/)
 
 > [Angular 15 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-15-postgresql/)
+
+> [Angular 16 + Spring Boot + H2 Embedded Database example](https://www.bezkoder.com/spring-boot-angular-16-crud/)
+
+> [Angular 16 + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-16-mysql/)
+
+> [Angular 16 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-16-postgresql/)
+
+> [Angular 17 + Spring Boot + H2 Embedded Database example](https://www.bezkoder.com/spring-boot-angular-17-crud/)
+
+> [Angular 17 + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-17-mysql/)
+
+> [Angular 17 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-17-postgresql/)
 
 > [React + Spring Boot + MySQL example](https://www.bezkoder.com/react-spring-boot-crud/)
 
